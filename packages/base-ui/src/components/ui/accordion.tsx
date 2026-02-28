@@ -10,7 +10,7 @@ export function Accordion({ className, ...props }: ComponentProps<typeof Primiti
     <Primitive.Root
       className={(s) =>
         cn(
-          'divide-y divide-fd-border overflow-hidden rounded-lg border bg-fd-card',
+          'divide-y mt-10 divide-fd-border overflow-hidden rounded-lg border bg-fd-card',
           typeof className === 'function' ? className(s) : className,
         )
       }
