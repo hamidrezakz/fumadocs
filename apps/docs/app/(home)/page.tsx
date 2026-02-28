@@ -70,7 +70,7 @@ export default function Page() {
             the React.js docs framework you love.
           </p>
           <h1 className="text-4xl my-8 leading-tighter font-medium xl:text-5xl xl:mb-12">
-            Build excellent
+            some change
             <br className="md:hidden" /> documentations,
             <br />
             your <span className="text-brand">style</span>.
