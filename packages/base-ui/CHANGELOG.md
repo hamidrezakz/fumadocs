@@ -1,5 +1,16 @@
 # @fumadocs/base-ui
 
+## 17.0.0
+
+### Minor Changes
+
+- 779efff: Use new translations API
+
+### Patch Changes
+
+- 0cc1fac: Make `uiTranslations()` optional for translations API
+  - fumadocs-core@17.0.0
+
 ## 16.9.3
 
 ### Patch Changes
