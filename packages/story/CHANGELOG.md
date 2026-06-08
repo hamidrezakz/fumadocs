@@ -1,5 +1,18 @@
 # @fumadocs/story
 
+## 1.1.0
+
+### Minor Changes
+
+- 779efff: Use new translations API
+
+### Patch Changes
+
+- Updated dependencies [0cc1fac]
+- Updated dependencies [779efff]
+  - fumadocs-ui@17.0.0
+  - fumadocs-core@17.0.0
+
 ## 1.0.2
 
 ### Patch Changes
